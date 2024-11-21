@@ -1,5 +1,5 @@
 <center><big><b>方鸿渐</b></big></center>
-<center>男 | 99岁 | Base北京 | Java大数据开发工程师</center>
+<center>男 | base北京 | 数据开发工程师</center>
 <center>(https://github.com/section-dog) | Mail: secion-dog@gmail.com | Phone：17610110110</center>
 
 ### Education
@@ -44,7 +44,7 @@
 
 ---
 - 证书：CKA、OSCP、AWS
-- 编程语言：Java、Python、Bash、go、SQL
+- 编程语言：Java、Python、Bash、SQL
 - OS&DB：Linux、Docker、MySQL、Redis、ElasticSearch、Hive
 - 框架：SpringBoot、Spark、Flink、Vue
 - 工具：Gitlab、Maven、IDEA、Nodejs、Maven
